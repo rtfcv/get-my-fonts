@@ -6,6 +6,12 @@
       "dl_regex": "UDEVGothic_([v0-1\\.]*).zip",
       "prev_url": "https://github.com/yuru7/udev-gothic/releases/download/v1.0.1/UDEVGothic_v1.0.1.zip"
     },
+    "udev-gothic-NF": {
+      "repo": "yuru7/udev-gothic",
+      "type": "zip(typing is not implemented yet)",
+      "dl_regex": "UDEVGothic_NF_([v0-1\\.]*).zip",
+      "prev_url": "https://github.com/yuru7/udev-gothic/releases/download/v1.0.1/UDEVGothic_NF_v1.0.1.zip"
+    },
     "morisawa-biz-ud-mincho": {
       "repo": "googlefonts/morisawa-biz-ud-mincho",
       "type": "zip(typing is not implemented yet)",
